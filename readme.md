@@ -24,6 +24,9 @@
 	$ sudo service apache2 reload  
 	- Enter the folder $ cd /var/www and create a new phalcon project  
 	$ phalcon project jumble    
+**Video 9.3 - Migrations**  
+	- Create a Db, and execute phalcon migration generate and run.    
+	    
 
 
 
